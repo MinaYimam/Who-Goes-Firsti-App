@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Who Goes First App</string>
+    <string name="result">team_result</string>
+    <string name="choose_who_goes_first">Select Random Team!</string>
+    <string name="enter_team_name_2">team2</string>
+    <string name="enter_team_name_1">team1</string>
+    <string name="who_goes_first">%1$s goes first</string>
+</resources>
